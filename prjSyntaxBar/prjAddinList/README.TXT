@@ -1,0 +1,1 @@
+prjAddinList.exe modifies the "VBADDIN.INI" file to list our Add-In
